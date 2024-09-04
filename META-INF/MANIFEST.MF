@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EZBackground
+Bundle-SymbolicName: EZBackground;singleton:=true
+Bundle-Version: 1.2.0
+Bundle-Activator: io.github.fsaxz.ezbackground.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources
+Bundle-RequiredExecutionEnvironment: JavaSE-22
+Automatic-Module-Name: EZBackground
+Bundle-ActivationPolicy: lazy
